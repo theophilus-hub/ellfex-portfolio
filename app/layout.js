@@ -7,9 +7,13 @@ const fontSans = FontSans({
   variable: "--font-sans",
 })
 
+
 export const metadata = {
   title: "Ellfex",
   description: "Portfolio",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({ children }) {
