@@ -67,11 +67,11 @@ function Projects() {
             }
           />
           <Item
-            img="/projects/agg.jpg"
-            pos={"MOD"}
-            name={"AGG"}
+            img="/projects/eywa.jpg"
+            pos={"AMB"}
+            name={"EYWA"}
             link={
-              "https://x.com/EllFexx/status/1609209138638094339?t=ALsuofBIMSNsIdwcdNtjLw&s=1"
+              "https://x.com/eywaprotocol"
             }
           />
           <Item
@@ -116,6 +116,14 @@ function Projects() {
             name={"GDSC"}
             link={
               "https://x.com/EllFexx/status/1687414452079976448?t=y9Yz-uPjrNyOSLB4FSqcxw&s=19"
+            }
+          />
+          <Item
+            img="/projects/agg.jpg"
+            pos={"MOD"}
+            name={"AGG"}
+            link={
+              "https://x.com/EllFexx/status/1609209138638094339?t=ALsuofBIMSNsIdwcdNtjLw&s=1"
             }
           />
           <Item

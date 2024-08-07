@@ -1,5 +1,5 @@
 import Image from "next/image"
-import logo from "@/public/ellfexb.png"
+import logo from "@/public/foot.jpg"
 
 function Footer() {
   return (

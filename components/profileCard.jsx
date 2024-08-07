@@ -33,7 +33,7 @@ const ProfileCard = () => {
                     </div>
 
                     <button className="flex flex-row border border-notnotblack rounded-[10px] w-28 py-2 px-2 my-4">
-                        <a className="w-full h-full flex" href="mailto:tarri9192@gmail.com">
+                        <a className="w-full h-full flex" href="mailto:infoellfex@gmail.com">
                             <svg  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="size-5 text-white">
                             <path strokeLinecap="round" strokeLinejoin="round" d="M16.5 12a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25" />
                         </svg>
@@ -48,16 +48,16 @@ const ProfileCard = () => {
                 
                 
                 <div className="flex flex-row space-x-4 mt-10">
-                    <div className="border border-border rounded-[4px] w-7 py-1 px-1 my-4 ">
+                    <a href="https://x.com/EllFexx" className="border border-border rounded-[4px] w-8 py-1 px-1 my-4 ">
                         <Image 
                             src='/icons/twitter.png'
-                            className=""
+                            className="https://t.me/ellfexx"
                             width={40}
                             height={40}
                             
                         />
-                    </div>
-                    <div className="border border-border rounded-[4px] w-7 py-1 px-1 my-4 " onClick={() => setOpenModal(true)}>
+                    </a>
+                    <a className="border border-border rounded-[4px] w-8 py-1 px-1 my-4 " onClick={() => setOpenModal(true)}>
                         <Image 
                             src='/icons/telegram.png'
                             className=""
@@ -65,9 +65,9 @@ const ProfileCard = () => {
                             height={40}
                             
                         />
-                    </div>
+                    </a>
                     
-                    <div className="border border-border rounded-[4px] p-1 w-7 my-4 ">
+                    <a href="https://www.tiktok.com/@i_am_ellfex?_t=8ofSNtZ363x&_r=1" className="border border-border rounded-[4px] p-1 w-8 my-4 ">
                         <Image 
                             src='/icons/tiktok.png'
                             className=""
@@ -75,8 +75,8 @@ const ProfileCard = () => {
                             height={50}
                             
                         />
-                    </div>
-                    <div className="border border-border rounded-[4px] p-1 w-7 my-4 ">
+                    </a>
+                    <a href="https://chat.whatsapp.com/GCbpMJAnKxl8ztsB7bY4Au" className="border border-border rounded-[4px] p-1 w-8 my-4 ">
                         <Image 
                             src='/icons/what.png'
                             className=""
@@ -84,7 +84,7 @@ const ProfileCard = () => {
                             height={50}
                             
                         />
-                    </div>
+                    </a>
 
                 
                
@@ -108,8 +108,13 @@ const ProfileCard = () => {
               </div>
             </Modal.Body>
             <Modal.Footer className="bg-notblack text-white h-20 rounded-b-2xl w-full text-center flex justify-center space-x-4 items-center py-6 border-y-0 border-b-2  border-l-2 border-r-2">
-              <Button >Builders Hub</Button>
-              <Button >ELLFEX DM</Button>
+              <a href="https://t.me/ellfexx">
+                <Button >Builders Hub</Button>
+                </a>
+                <a href="https://t.me/EllfexBuildersHub">
+                    <Button >ELLFEX DM</Button>
+                </a>
+              
             </Modal.Footer>
           </div>
         </div>
