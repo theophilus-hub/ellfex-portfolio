@@ -62,17 +62,13 @@ function Projects() {
             img="/projects/metale.jpg"
             pos={"AMB"}
             name={"Matale Protocol"}
-            link={
-              "https://x.com/MetaleProtocol"
-            }
+            link={"https://x.com/MetaleProtocol"}
           />
           <Item
             img="/projects/eywa.jpg"
             pos={"AMB"}
             name={"EYWA"}
-            link={
-              "https://x.com/eywaprotocol"
-            }
+            link={"https://x.com/eywaprotocol"}
           />
           <Item
             img="/projects/contentfi.jpg"
