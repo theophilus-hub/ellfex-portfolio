@@ -6,7 +6,7 @@ function Footer() {
     <div className="w-full">
       <Image 
         src={logo}
-        className="w-full"
+        className="w-full rounded-xl"
       />
     </div>
   )
