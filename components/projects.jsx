@@ -110,8 +110,9 @@ function Projects() {
             name={"invigorate Dao"}
             link={"https://x.com/Invigorate_DAO?t=jEGQuEtB9YoV7gH2xnIwuw&s=09"}
           />
+
           <Item
-            img="/projects/gdsc.jpg"
+            img="/projects/gdscfuo.jpg"
             pos={"MOD"}
             name={"GDSC"}
             link={
