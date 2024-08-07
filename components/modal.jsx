@@ -30,8 +30,9 @@ function Modalc() {
               </div>
             </Modal.Body>
             <Modal.Footer className="bg-notblack text-white h-20 rounded-b-2xl w-full text-center flex flex-col items-center py-6 border-y-0 border-b-2  border-l-2 border-r-2">
+            <a href="https://t.me/EllfexBuildersHub" >
               <Button className="bg-blue-700 border-0 font-bold" >Join</Button>
-              
+              </a>
             </Modal.Footer>
           </div>
         </div>
