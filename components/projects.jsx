@@ -62,7 +62,7 @@ function Projects() {
             img="/projects/metale.jpg"
             pos={"AMB"}
             name={"Matale Protocol"}
-            link={"https://x.com/MetaleProtocol"}
+            link={"https://x.com/EllFexx/status/1821507870204064152?t=SFPL6LAmkwp_DOo6JWFSyw&s=19"}
           />
           <Item
             img="/projects/eywa.jpg"

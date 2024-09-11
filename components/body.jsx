@@ -42,7 +42,12 @@ function Body() {
         </div>
 
         <div className="space-y-8 w-full">
-            <Header text="Let's Build" />
+            <button>
+                <a href="https://x.com/EllFexx">
+                     <Header text="Let's Build" />
+                </a>
+            </button>
+            
             <Footer />
         </div>
         
