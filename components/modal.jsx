@@ -29,10 +29,13 @@ function Modalc() {
                 <p className="font-bold text-2xl">Join Builders Hub<br /> Community</p>
               </div>
             </Modal.Body>
-            <Modal.Footer className="bg-notblack text-white h-20 rounded-b-2xl w-full text-center flex flex-col items-center py-6 border-y-0 border-b-2  border-l-2 border-r-2">
-            <a href="https://t.me/EllfexBuildersHub" >
-              <Button className="bg-blue-700 border-0 font-bold" >Join</Button>
-              </a>
+            <Modal.Footer className="bg-notblack text-white h-20 rounded-b-2xl w-full text-center flex justify-center space-x-4 items-center py-6 border-y-0 border-b-2  border-l-2 border-r-2">
+            <a href="https://t.me/EllfexBuildersHub">
+                <Button >Join Telegram</Button>
+                </a>
+                <a href="https://chat.whatsapp.com/GCbpMJAnKxl8ztsB7bY4Au">
+                    <Button >Join Whatsapp</Button>
+                </a>
             </Modal.Footer>
           </div>
         </div>
