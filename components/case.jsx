@@ -50,7 +50,7 @@ function Case() {
        </CarouselItem>
        <CarouselItem  className=" md:basis-1/2 lg:basis-1/2">
          <div className="">
-         <CaseStudy img={comm} heading={"Community Spotlight"} des={"Creating a strong community of builders to increase the adoption and knowledge of Web3 in Africa and beyond"} tweet={"https://t.me/EllfexBuildersHub "} />
+         <CaseStudy img={comm} heading={"Community Spotlight"} des={"Creating a strong community of builders to increase the adoption and knowledge of Web3 in Africa and beyond"} tweet={"https://t.me/EllfexNaijaJobber "} />
          </div>
        </CarouselItem>
        

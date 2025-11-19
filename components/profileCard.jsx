@@ -108,8 +108,8 @@ const ProfileCard = () => {
               </div>
             </Modal.Body>
             <Modal.Footer className="bg-notblack text-white h-20 rounded-b-2xl w-full text-center flex justify-center space-x-4 items-center py-6 border-y-0 border-b-2  border-l-2 border-r-2">
-              <a href="https://t.me/EllfexBuildersHub">
-                <Button >Builders Hub</Button>
+              <a href="https://t.me/EllfexNaijaJobber">
+                <Button >Naijajobber</Button>
                 </a>
                 <a href="https://t.me/ellfexx">
                     <Button >ELLFEX DM</Button>
